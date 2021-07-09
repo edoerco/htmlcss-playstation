@@ -50,7 +50,6 @@ body {
 
 
 /* Main */
-
 /* Banner 1 */
 #jumbotron {
     width: 100%;
@@ -59,13 +58,24 @@ body {
     background-position-x: center;
     background-position-y: top;
     background-size: cover;
-    padding: 20px;
+    padding: 40px;
 }
 
 .img-jumbo{
     width: 200px;
 }
 /* Fine Banner 1 */
+
+/* Game-banner */
+#game-banner {
+    width: 100%;
+    padding: 40px;
+}
+
+.border-game {
+    border-radius: 20px;
+}
+/* Fine Game-banner */
 
 /* Console */
 #console {
@@ -82,7 +92,7 @@ body {
     background-position-x: center;
     background-position-y: top;
     background-size: cover;
-    padding: 20px;
+    padding: 40px;
 }
 /* Fine Banner 2 */
 
@@ -131,7 +141,6 @@ body {
 }
 /* Fine Social */
 /* Fine Main */
-
 
 /* Footer */
 footer {
