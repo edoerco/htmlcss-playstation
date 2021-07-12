@@ -102,15 +102,18 @@ body {
 
 /* Accessori */
 #accessori {
-    padding: 40px;
+    padding: 80px 40px;
 }
 /* Fine Accessori */
 
 /* PS-Plus */
 #ps-plus {
-    width: 100%;
-    height: 300px;
     background-color: #bebcbb;
+    padding: 0 40px;
+}
+
+#ps-plus button {
+    background-color: #d9dadc;
 }
 /* Fine PS-Plus */
 
