@@ -25,11 +25,6 @@ body {
     width: 100px;
     height: 40px;
 }
-
-.sony-logo img {
-    width: 100%;
-    height: 100%;
-}
 /* Fine Sony */
 
 /* Navbar */
@@ -78,18 +73,11 @@ body {
 
 /* Console */
 #console {
-    width: 100%;
     padding: 40px;
 }
 
 sup {
     font-size: 8px;
-}
-
-hr {
-    margin: 30px 0;
-    height: 3px !important;
-    background-color: blue;
 }
 /* Fine Console */
 
@@ -107,9 +95,8 @@ hr {
 
 /* Nuove Uscite */
 #new {
-    width: 100%;
-    height: 500px;
     background-color: #1f1f1f;
+    padding: 40px;
 }
 /* Fine Nuove Uscite */
 
