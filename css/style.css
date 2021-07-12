@@ -6,7 +6,6 @@
 
 body {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 16px;
 }
 
 /* COMMON */
@@ -80,7 +79,17 @@ body {
 /* Console */
 #console {
     width: 100%;
-    height: 600px;
+    padding: 40px;
+}
+
+sup {
+    font-size: 8px;
+}
+
+hr {
+    margin: 30px 0;
+    height: 3px !important;
+    background-color: blue;
 }
 /* Fine Console */
 
