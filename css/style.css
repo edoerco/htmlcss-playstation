@@ -12,6 +12,10 @@ body {
 .orange {
     background-color: #cd3d10;
 }
+
+h2 {
+    font-size: 40px;
+}
 /* FINE COMMON */
 
 /* Heaader */
@@ -69,6 +73,10 @@ body {
 .border-game {
     border-radius: 20px;
 }
+
+#game-banner img:hover {
+    border: 1px solid blue;
+}
 /* Fine Game-banner */
 
 /* Console */
@@ -78,6 +86,15 @@ body {
 
 #console sup {
     font-size: 8px;
+}
+
+.opacity {
+    opacity: 0.6;
+}
+
+.opacity:hover {
+    opacity: 1;
+    border-bottom: 1px solid blue;
 }
 /* Fine Console */
 
@@ -97,6 +114,10 @@ body {
 #new {
     background-color: #1f1f1f;
     padding: 40px;
+}
+
+#new sup {
+    font-size: 8px
 }
 /* Fine Nuove Uscite */
 
