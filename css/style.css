@@ -139,8 +139,23 @@ body {
 
 /* Footer */
 footer {
-    width: 100%;
-    height: 500px;
     background-color: #00439c;
+}
+
+#footer {
+    padding: 80px 40px;
+}
+
+.logo-footer {
+    width: 100px;
+}
+
+.legnguage-globe {
+    width: 20px;
+    vertical-align: middle;
+}
+
+.sony-footer-logo {
+    width: 150px;
 }
 /* Fine Footer */
